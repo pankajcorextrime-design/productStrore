@@ -32,6 +32,7 @@ function App() {
 
   return (
     <>
+      <h1>Welcome to myStore</h1>
       <RouterProvider router={router} />
 
 
