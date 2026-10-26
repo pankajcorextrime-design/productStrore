@@ -32,6 +32,7 @@ const Card = (props) => {
 
     return (
         <>
+            <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto exercitationem recusandae ex magnam quia error repellat nihil hic, mollitia possimus necessitatibus itaque esse rem perspiciatis, animi harum velit aliquid voluptas?</h1>
             <div className="bg-neutral-primary-soft block max-w-sm border border-default rounded-base shadow-xs">
                 <a href="#">
                     <img className="rounded-t-base" src={thumbnail} alt="" />
