@@ -76,7 +76,7 @@ const ListCard = () => {
 
     return (
         <>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil, voluptatem!</p>
+   
             <div className="container">
                 <div className="row text-center">
                     <div className="col">
