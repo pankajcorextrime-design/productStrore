@@ -1,0 +1,29 @@
+:root {
+  --btn-abc: blue;
+  --bg-p: red
+}
+
+h4 {
+  font-size: 30px;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 10px;
+}
+
+.cart span {
+  color: turquoise;
+  font-size: 30px;
+
+}
+
+input {
+  padding: 5px 10px !important;
+  border-radius: 10px;
+  border: 2px solid green;
+  background-color: lightgray;
+}
+
+select {
+  padding: 5px 30px !important;
+  border-radius: 10px !important;
+}
